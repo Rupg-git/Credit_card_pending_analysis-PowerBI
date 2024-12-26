@@ -30,14 +30,3 @@ This project visualizes the spending habits of credit card users in India using 
 6. **Filters**
    - The dashboard includes filters for Gender, Card Type, Expense Type, and Year (2013, 2014, 2015) allowing users to interactively filter the data and customize the visualizations.
 
-## How to Use
-1. **Clone the Repository**
-   ```sh
-   git clone https://github.com/workwithshreesh/PowerBi-DataAnalyst-Projects
-
-
-___
-
-Enjoy exploring the Power BI Insights and Dashboard! If you have questions or feedback, feel free to contact me.
-
-Contact: shreesht366@gmail.com
